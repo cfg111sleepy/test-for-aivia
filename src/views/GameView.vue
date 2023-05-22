@@ -56,16 +56,16 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 40px;
+  margin-top: 3rem;
 }
 
 h2 {
-  margin: 10px 0;
+  margin: 1rem 0;
 }
 
 .grid-container {
   background-color: #333;
-  margin-top: 20px;
+  margin-top: 1.5rem;
 }
 
 .row {
@@ -73,9 +73,9 @@ h2 {
 }
 
 .cell {
-  width: 36px;
-  height: 36px;
-  margin: 1px;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin: 0.063rem;
   cursor: pointer;
   background-color: #fff;
 }

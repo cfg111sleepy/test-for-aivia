@@ -78,7 +78,7 @@ export default {
 }
 
 .v-card {
-  padding: 20px;
+  padding: 1.25rem;
 }
 
 .c-red {
